@@ -1,2 +1,2 @@
 # ischool
-A web base free learning.  
+A web apps for free learning.  

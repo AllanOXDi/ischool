@@ -1,2 +1,2 @@
 # ischool
-A web based course platform that allow user aces course for free 
+A web apps for free learning.  

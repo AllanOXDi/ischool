@@ -1,0 +1,2 @@
+class IsEnrolled:
+    pass
